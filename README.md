@@ -1,6 +1,9 @@
 # MT_SQL_VIZ_AGENT
 
-Natural-language → SQL → validated execution → BI recommendation → Plotly visualization, using Azure OpenAI + MySQL + Streamlit + LangGraph/LangChain.
+> Natural-language → SQL → validated execution → BI recommendation → Plotly visualization, using Azure OpenAI + MySQL + Streamlit + LangGraph/LangChain.
+
+## Demo
+https://github.com/user-attachments/assets/ed943cfd-37c0-4879-88d4-53616951d215  
 
 ---
 
